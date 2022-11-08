@@ -1,28 +1,3 @@
-codigo_senha.c
-Who has access
-D
-d
-
-P
-System properties
-Type
-C
-Size
-4 KB
-Storage used
-4 KB
-Location
-Senha
-Owner
-Diego Baladez
-Modified
-Jun 5, 2021 by Diego Baladez
-Opened
-4:36 PM by me
-Created
-Jun 6, 2021
-Add a description
-Viewers can download
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
